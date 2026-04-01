@@ -13,7 +13,7 @@ The field is evolving towards open-source, reproducible workflows, and so is my 
 
 ### 👯 How these projects are built
 
-I work with an AI tutor that uses a Socratic approach; that is, it poses guiding questions and prompts reasoning rather than providing ready-made code. I define my own project ideas, suggest solutions, challenge the logic, and write the code myself. The AI guides the learning process; it does not command it. Every line of code here reflects that method: understanding the *why*, not just the syntax.
+I work with an AI tutor that I set up on Claude (by Anthropic), using a Socratic approach, i.e., it poses guiding questions and prompts reasoning rather than providing ready-made code. I define my own project ideas, suggest solutions, challenge the logic, and write the code myself. The AI guides the learning process, it does not command it. Every line of code here reflects that method: understanding the *why*, not just the syntax.
 
 ### Projects
 
