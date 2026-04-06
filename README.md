@@ -1,6 +1,7 @@
-## Hi there 👋
+
 ##  Nádia Costa | Labour Economist | Data & Python | PhD in Engineering and Management
 
+### Hi there 👋
 I study how labour markets respond when technology transforms the way we work: why some workers adapt, others don't, and what institutions can do about it. What drives me is the applied side; turning statistical evidence into insights that inform decisions for workers, firms, and policy.
 
 ### 🔭 Background
