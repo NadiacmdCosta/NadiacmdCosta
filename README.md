@@ -1,12 +1,12 @@
 
-##  Nádia Costa | Labour Economics | Data & Python | PhD in Engineering and Management
+##  Nádia Costa | Labour Economics | Technological Change | Data & Python | PhD in Engineering and Management
 
 ### Hi there 👋
-I study how labour markets respond when technology transforms the way we work: why some workers adapt, others don't, and what institutions can do about it. What drives me is the applied side; turning statistical evidence into insights that inform decisions for workers, firms, and policy.
+I study how labour markets respond when technology transforms the way we work: why some workers adapt, others don't, and what institutions can do about it. What drives me is the applied side: turning statistical evidence into insights that inform decisions for workers, firms, and policy.
 
 ### 🔭 Background
 
-My research is built on econometrics and large-scale microdata, developed over five years of doctoral work at Instituto Superior Tecnico, Lisbon. I have worked with EU-SILC longitudinal data from Eurostat (26 European countries), Quadros de Pessoal administrative records from GEP/MTSSS (Portugal), and SCIE firm-level data from INE/Statistics Portugal. My core toolkit includes Stata, discrete-time duration models, and multinomial frameworks applied to labour market transitions under technological change.
+My research is built on econometrics and large-scale microdata, developed over two years in my master thesis and five years of doctoral work at Instituto Superior Tecnico, Lisbon. I have worked with EU-SILC longitudinal data from Eurostat (26 European countries), Quadros de Pessoal administrative records from GEP/MTSSS (Portugal), and SCIE firm-level data from INE/Statistics Portugal. My core toolkit includes Stata, discrete-time duration models, and multinomial frameworks applied to labour market transitions under technological change.
 
 ### 🌱 What I'm building here
 
