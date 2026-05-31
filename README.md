@@ -20,16 +20,13 @@ I work with an AI tutor that I set up on Claude, using a Socratic approach, i.e.
 
 | Repository | Description |
 |---|---|
-| oecd-data-pipeline | Python pipeline that fetches, cleans, and summarises OECD labour market data via the SDMX REST API. Covers API requests, CSV parsing, pandas workflows, and summary statistics. |
-| oecd-labour-market-dashboard | Interactive Streamlit dashboard for exploring OECD labour market indicators across countries and time periods. Features dynamic charts, a peak and trough analysis panel, and a sidebar-driven layout. |
-| epl-tech-dashboard | Streamlit dashboard comparing OECD Employment Protection Legislation indicators with technology indicators (ICT uptake, EPO patents) across European countries. Connected to my doctoral research on EPL and technological change. |
-| bankruptcy-prediction | Binary classification workflow predicting firm failure from financial ratios (Polish Companies Bankruptcy dataset, UCI). Covers imbalanced-data handling, median imputation, logistic regression and random forest with balanced class weights, and model evaluation focused on recall and the confusion matrix rather than accuracy. |
-
+| [oecd-data-pipeline](https://github.com/NadiacmdCosta/oecd-data-pipeline) | Python pipeline that fetches, cleans, and summarises OECD labour market data via the SDMX REST API. Covers API requests, CSV parsing, pandas workflows, and summary statistics. |
+| [oecd-labour-market-dashboard](https://github.com/NadiacmdCosta/oecd-labour-market-dashboard) | Interactive Streamlit dashboard for exploring OECD labour market indicators across countries and time periods. Features dynamic charts, a peak and trough analysis panel, and a sidebar-driven layout. |
+| [epl-tech-dashboard](https://github.com/NadiacmdCosta/epl-tech-dashboard) | Streamlit dashboard comparing OECD Employment Protection Legislation indicators with technology indicators (ICT uptake, EPO patents) across European countries. Connected to my doctoral research on EPL and technological change. |
+| [bankruptcy-prediction](https://github.com/NadiacmdCosta/bankruptcy-prediction) | Binary classification workflow predicting firm failure from financial ratios (Polish Companies Bankruptcy dataset, UCI). Covers imbalanced-data handling, median imputation, logistic regression and random forest with balanced class weights, and model evaluation focused on recall and the confusion matrix rather than accuracy. |
 
 ### 📫 How to reach me
-
 [LinkedIn](https://www.linkedin.com/in/nadiacmcosta)
-
 
 
 
